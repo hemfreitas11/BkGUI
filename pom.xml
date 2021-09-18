@@ -12,11 +12,18 @@
     <name>BkGUI</name>
 
     <description>GUI library</description>
+
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
+
+    <parent>
+        <groupId>me.bkrmt</groupId>
+        <artifactId>extras</artifactId>
+        <version>EXTRAS-PARENT</version>
+    </parent>
 
     <build>
         <plugins>

@@ -6,7 +6,6 @@ import me.bkrmt.bkcore.bkgui.item.FinalItemJob;
 import me.bkrmt.bkcore.bkgui.item.HeadBuilder;
 import me.bkrmt.bkcore.bkgui.item.ItemBuilder;
 import me.bkrmt.bkcore.xlibs.XMaterial;
-import org.bukkit.Material;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.ItemStack;

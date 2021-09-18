@@ -1,10 +1,9 @@
 package me.bkrmt.bkcore.bkgui.item;
 
+import me.bkrmt.bkcore.bkgui.ColorUtil;
 import me.bkrmt.bkcore.textanimator.AnimationPlaceholder;
 import me.bkrmt.bkcore.textanimator.AnimatorManager;
-import me.bkrmt.bkcore.bkgui.ColorUtil;
 import me.bkrmt.bkcore.xlibs.XMaterial;
-import org.bukkit.Material;
 import org.bukkit.enchantments.Enchantment;
 import org.bukkit.inventory.ItemFlag;
 import org.bukkit.inventory.ItemStack;

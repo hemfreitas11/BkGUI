@@ -3,7 +3,6 @@ package me.bkrmt.bkcore.bkgui.gui;
 import me.bkrmt.bkcore.bkgui.event.ElementResponse;
 import me.bkrmt.bkcore.bkgui.item.ItemBuilder;
 import me.bkrmt.bkcore.xlibs.XMaterial;
-import org.bukkit.Material;
 import org.bukkit.entity.Player;
 
 public abstract class GUIExtenderItem implements ElementResponse {
